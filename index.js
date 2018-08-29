@@ -6,7 +6,7 @@ function scuberGreetingForFeet(ride){
        Message ='This one is on me!';
         return Message;
       }
-  else if ( ride > 2000 ){
+  else if ( ride > 2000  ){
         Message ='I will gladly take your thirty bucks.';
         return Message;
       }
