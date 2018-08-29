@@ -6,13 +6,13 @@ function scuberGreetingForFeet(ride){
        Message ='This one is on me!';
         return Message;
       }
-  else if ( ride > 2000 && ride <= 2499 ){
+  else if (ride > 2000 && ride <= 2499 ){
         Message ='I will gladly take your thirty bucks.';
         return Message;
       }
   
   
-  else if ( ride > 2500 ){
+  else if (ride > 2500 ){
         Message = ' No can do.' ;
           return Message ;
       }
