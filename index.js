@@ -12,7 +12,7 @@ function scuberGreetingForFeet(ride){
       }
   
   
-  else if ( ride > 2500 ){
+  else  ( ride > 2500 ){
         Message = ' No can do.' ;
           return Message ;
       }
